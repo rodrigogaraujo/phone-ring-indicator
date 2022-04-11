@@ -12,7 +12,7 @@ Simple animation with moti
 
 # Preview
 <video width="320" height="600">
-  <source src="https://github.com/rodrigogaraujo/phone-ring-indicator/blob/master/video.mp4" type="video/ogg">
+  <source src="https://github.com/rodrigogaraujo/phone-ring-indicator/blob/main/video.mp4" type="video/ogg">
 </video>
 
 # Contact
