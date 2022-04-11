@@ -11,9 +11,9 @@ Simple animation with moti
 - Moti
 
 # Preview
-<video width="320" height="600">
-  <source src="https://github.com/rodrigogaraujo/phone-ring-indicator/blob/main/video.mp4" type="video/ogg">
-</video>
+https://user-images.githubusercontent.com/3254949/162652811-3306691d-2ff8-4371-b439-2558085e7958.mp4
+
+
 
 # Contact
 rodrigoaraujo990@gmail.com
